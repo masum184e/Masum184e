@@ -84,7 +84,7 @@ An aspiring developer who loves to take on new projects that challenges his anal
 
 ## My Github Stats  
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=masum184e&show_icons=true&count_private=true&hide_border=true&theme=dark" valign=top  />
+  <img src="https://github-readme-stats.vercel.app/api?username=masum184e&show_icons=true&count_private=true&hide_border=true&theme=dark" valign=top height=139  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masum184e&hide_border=true&layout=compact&theme=dark" valign=top />
   <br/>
   <img src="https://gpvc.arturio.dev/Masum184e" />
