@@ -1,6 +1,11 @@
-### Hi there, I'm Masum Billah
+### Hi there,
+
+This is **Masum Billah**
+<br/>
+An aspiring developer who loves to take on new projects that challenges his analytical and technological capacities
 
 - ❓ Ask me about anything related to MERN stack and related technologies
+- 👨‍💻 All of my projects are available at https://github.com/masum184e/
 - 📫 How to reach me: masum184e@gmail.com
 - ⚡ Fun fact: I use tabs over spaces
 
@@ -55,6 +60,17 @@
 <img src=https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white alt=APACHE  />
 </a>
 
+## Others
+<a href="https://www.postman.com/" target="_blank">
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt=POSTMAN />
+</a>
+<a href="https://wordpress.com/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" height=40 alt=WORDPRESS />
+</a>
+<a href="https://github.com/" target="_blank">
+<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height=40 alt=GITHUB />
+</a>
+
 ## Connect with me  
 <a href="https://linkedin/in/masum-billah-04b7b61b0" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white alt=LINKEDIN  />
@@ -66,11 +82,10 @@
 <img src=https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white alt= TWITTER  />
 </a>
 
-
 ## My Github Stats  
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Masum184e&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" height=139  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Masum184e&layout=compact&border_radius=0&theme=dark"  height=139 />
+  <img src="https://github-readme-stats.vercel.app/api?username=masum184e&show_icons=true&count_private=true&hide_border=true&theme=dark" valign=top  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masum184e&hide_border=true&layout=compact&theme=dark" valign=top />
   <br/>
   <img src="https://gpvc.arturio.dev/Masum184e" />
 </div>
