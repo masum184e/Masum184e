@@ -1,92 +1,38 @@
-### Hi there,
+<h1 align="center">Hi 👋, This is masum billah</h1>
+<h3 align="center">A passionate Full Stack Web Developer</h3>
+<img align="right" alt="img" src="https://github.com/aladnansami/Internship-MID-Presentation/blob/main/WhatsApp%20Image%202022-07-02%20at%205.32.59%20PM.jpeg" width="50%" height="auto" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=masum184e&show_icons=true&hide_border=true" />
 
-This is **Masum Billah**
-<br/>
-An aspiring developer who loves to take on new projects that challenges his analytical and technological capacities
 
-- ❓ Ask me about anything related to MERN stack and related technologies
-- 👨‍💻 All of my projects are available at https://github.com/masum184e/
-- 📫 How to reach me: masum184e@gmail.com
-- ⚡ Fun fact: I use tabs over spaces
+- 🌱 I’m currently learning **NLP and Deep learning**
 
-## Languages 
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-<img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white alt=HTML5  />
-</a>
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank">
-<img src=https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white alt=CSS3  />
-</a>
-<a href="https://www.javascript.com/" target="_blank">
-<img src=https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E alt=JAVASCRIPT  />
-</a>
-<a href="https://www.php.net/" target="_blank">
-<img src=https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white alt=PHP  />
-</a>
+- 👨‍💻 All of my projects are available at [https://github.com/masum184e](https://github.com/masum184e)
 
-## Currently Learning 
-<a href="https://www.java.com/en/" target="_blank">
-<img src=https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white alt=JAVA  />
-</a>
+- 💬 Ask me about **Full Stack Web Developer**
 
-## Frontend Framework
-<a href="https://getbootstrap.com/" target="_blank">
-<img src=https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white alt=BOOTSTRAP  />
-</a>
-<a href="https://reactjs.org/" target="_blank">
-<img src=https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB alt=REACT  />
-</a>
-<a href="https://reactrouter.com/en/main" target="_blank">
-<img src=https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white alt=REACT_ROUTER  />
-</a>
+- 📫 How to reach me **masum184e@gmail.com**
 
-## Backend Framework
-<a href="https://nodejs.org/en/" target="_blank">
-<img src=https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=black alt=nodejs  />
-</a>
-<a href="https://expressjs.com/" target="_blank">
-<img src=https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB alt=expressjs  />
-</a>
+- ⚡ Fun fact **Always smilling face**
 
-## Databases 
-<a href="https://www.mysql.com/" target="_blank">
-<img src=https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white alt=MySQL  />
-</a>
-<a href="https://www.mongodb.com/" target="_blank">
-<img src=https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white alt=mongoDB  />
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/masum184e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aladnansami" height="30" width="40" /></a>
+<a href="https://fb.com/masum184e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="al.adnan.18" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/aladnansami" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aladnansami" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/masum184e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aladnansami" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/masum184e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="aladnansami" height="30" width="40" /></a>
+</p>
 
-## Servers 
-<a href="https://httpd.apache.org/" target="_blank">
-<img src=https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white alt=APACHE  />
-</a>
+<h3>🛠 Tech Stack</h3>
 
-## Others
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt=POSTMAN />
-</a>
-<a href="https://wordpress.com/" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/wordpress.png" height=40 alt=WORDPRESS />
-</a>
-<a href="https://github.com/" target="_blank">
-<img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height=40 alt=GITHUB />
-</a>
+- 💻 &nbsp; Jmeter | Postman | Manual Testing | Automation Testing Mobile and web | Rest Assured
+- 💻 &nbsp; Python | Selenium | Java | Cypress | Appium | Jenkins
+- 🌐 &nbsp; Android | Automation | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🔧 &nbsp; Android Studio | Intellj Idea | Visual Studio code | Eclipse | Git |Jira | CI/CD
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop 
 
-## Connect with me  
-<a href="https://linkedin/in/masum-billah-04b7b61b0" target="_blank">
-<img src=https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white alt=LINKEDIN  />
-</a>
-<a href="https://facebook.com/profile.php?id=100074566913229" target="_blank">
-<img src=https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white alt=FACEBOOK  />
-</a>
-<a href="https://twitter.com/sbmasumbillah" target="_blank">
-<img src=https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white alt= TWITTER  />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masum184e&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/masum184e/github-readme-stats)
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=masum184e&theme=default" width="53%" height="auto" alt="masum184e's github stats"/>
 
-## My Github Stats  
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=masum184e&show_icons=true&count_private=true&hide_border=true&theme=dark" valign=top height=139  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masum184e&hide_border=true&layout=compact&theme=dark" valign=top />
-  <br/>
-  <img src="https://gpvc.arturio.dev/Masum184e" />
-</div>
 
