@@ -43,6 +43,6 @@
   <a href="https://codeforces.com/profile/masum184e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="masum184e" height="30" width="40" /></a>
 </p>
 
-<br/>
+
 <img align="right" width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=masum184e&theme=default" alt="Masum Billah's GitHub stats" />
-<img  width="48%" height="auto" src="https://github-readme-stats.vercel.app/api?username=masum184e&show_icons=true&hide_border=true" alt="Masum Billah's GitHub stats"/>
+<img  width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=masum184e&show_icons=true&hide_border=true" alt="Masum Billah's GitHub stats"/>
