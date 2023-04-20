@@ -45,4 +45,4 @@
 
 
 <img align="right" width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=masum184e&theme=default" alt="Masum Billah's GitHub stats" />
-<img  width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=masum184e&show_icons=true&hide_border=true" alt="Masum Billah's GitHub stats"/>
+<img  width="48%" height="auto" src="https://github-readme-stats.vercel.app/api?username=masum184e&show_icons=true&hide_border=true" alt="Masum Billah's GitHub stats"/>
