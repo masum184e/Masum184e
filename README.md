@@ -30,7 +30,7 @@
 
 - 🌐 &nbsp; HTML | CSS | Javascript | Bootstrap | Tailwind CSS
 - 👨‍💻 &nbsp; React | NextJS | Material UI
-- 🔧 &nbsp; NodeJS | ExpressJS | PHP
+- 🔧 &nbsp; NodeJS | ExpressJS | PHP | GraphQL
 - ⌨️ &nbsp; Python | Java | C++ | C
 - 🛢 &nbsp; MYSQL | MongoDB | XAMPP
 - 💻 &nbsp; Visual Studio code | Git
