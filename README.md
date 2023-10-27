@@ -29,7 +29,7 @@
 <h3>🛠Tech Stack</h3>
 
 - 🌐 &nbsp; HTML | CSS | Javascript | Bootstrap | Tailwind CSS
-- 👨‍💻 &nbsp; React | NextJS | Material UI
+- 👨‍💻 &nbsp; React | NextJS | Material UI | Redux
 - 🔧 &nbsp; NodeJS | ExpressJS | PHP | GraphQL | Firebase
 - ⌨️ &nbsp; Python | Java | C++ | C
 - 🛢 &nbsp; MYSQL | MongoDB | XAMPP
