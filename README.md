@@ -62,3 +62,26 @@
 
 <img align="right" width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=masum184e&theme=default" alt="Masum Billah's GitHub stats" />
 <img  width="48%" height="auto" src="https://github-readme-stats.vercel.app/api?username=masum184e&show_icons=true&hide_border=true" alt="Masum Billah's GitHub stats"/>
+
+
+<img width="100%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masum184e" />
+
+# Recent Projects
+
+### ZenTalk
+
+<p>ZenTalk is a a dynamic platform where individuals from diverse backgrounds and interests converge to engage in meaningful conversations. we take pride in fostering a community that thrives on the exchange of ideas, knowledge, and experiences.</p>
+
+[Live Preview](https://zentalk-client.vercel.app/) | [View Source Code](https://github.com/masum184e/zentalk_client)
+
+### EduBuddy
+
+<p>EduBuddy is a revolutionizes online group study tool. Imagine a world where every registered user is automatically connected as friends. It will empower users to not only create assignments but also complete them collaboratively. What's more, they can also take on the role of educators by grading their friends' assignments.</p>
+
+[Live Preview](https://edubuddy-client.vercel.app/) | [View Source Code](https://github.com/masum184e/edubuddy_client)
+
+### HexaVerse
+
+<p>HexaVerse is a video on-demand over-the-top streaming service. The service primarily distributes six OTT platform content and it is available internationally in multiple.</p>
+
+[Live Preview](https://hexaverse-client.vercel.app/) | [View Source Code](https://github.com/masum184e/hexaverse_client)
