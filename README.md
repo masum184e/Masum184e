@@ -18,7 +18,7 @@
 
 - 📫 How to reach me o reach me **masum184e@gmail.com**
 
-- 📄 Know about me [View Portfolio](https://masum184e.github.io/portfolio)
+<!-- 📄 Know about me [View Portfolio](https://masum184e.github.io/portfolio) -->
 
 - ⚡ Fun fact: I use tabs over spaces
 
