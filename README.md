@@ -64,7 +64,7 @@
 <img  width="48%" height="auto" src="https://github-readme-stats.vercel.app/api?username=masum184e&show_icons=true&hide_border=true" alt="Masum Billah's GitHub stats"/>
 
 
-<img width="100%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masum184e" />
+<img width="50%" height="auto" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masum184e" />
 
 # Recent Projects
 
