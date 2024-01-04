@@ -29,11 +29,11 @@
 <h3>🛠Tech Stack</h3>
 
 - 🌐 &nbsp; HTML | CSS | Javascript | Bootstrap | Tailwind CSS
-- 👨‍💻 &nbsp; React | NextJS | Material UI | Redux
-- 🔧 &nbsp; NodeJS | ExpressJS | PHP | GraphQL | Firebase
+- 👨‍💻 &nbsp; React | NextJS | Redux | Firebase
+- 🔧 &nbsp; NodeJS | ExpressJS | PHP | GraphQL
 - ⌨️ &nbsp; Python | Java | C++ | C
-- 🛢 &nbsp; MYSQL | MongoDB | XAMPP
-- 💻 &nbsp; Visual Studio code | Git
+- 🛢 &nbsp; MYSQL | MongoDB
+- 💻 &nbsp; Visual Studio code | Git | XAMPP
 - ✏️ &nbsp; Adobe Illustrator | Adobe Photoshop
 
 <h3>Connect with me:</h3>
