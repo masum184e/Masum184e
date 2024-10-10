@@ -18,11 +18,9 @@
 
 - 📫 How to reach me o reach me **masum184e@gmail.com**
 
-- 📄 Know about me [View Portfolio](https://portfolio-delta-opal-76.vercel.app/)
+- 📄 Know about me [View Portfolio](https://mdmasumbillah.vercel.app/)
 
 - ⚡ Fun fact: I use tabs over spaces
-
-
 
 <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masum184e&layout=compact&text_color=daf7dc&bg_color=151515" alt="masum184e" />
 
@@ -31,8 +29,10 @@
 - 🌐 &nbsp; HTML | CSS | Javascript | Bootstrap | Tailwind CSS
 - 👨‍💻 &nbsp; React | NextJS | Redux | Firebase
 - 🔧 &nbsp; NodeJS | ExpressJS | PHP | GraphQL
-- ⌨️ &nbsp; Python | Java | C++ | C
+- 📱 &nbsp; XML | Android Studio
 - 🛢 &nbsp; MYSQL | MongoDB
+- ⌨️ &nbsp; Python | Java | C++ | C
+- 🤖 &nbsp; Numpy | Pandas | Sklearn | OpenCV
 - 💻 &nbsp; Visual Studio code | Git | XAMPP
 - ✏️ &nbsp; Adobe Illustrator | Adobe Photoshop
 
@@ -40,7 +40,8 @@
 <p>
   <a href="https://linkedin.com/in/masum184e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="masum184e" height="30" width="40" /></a>
   <a href="https://fb.com/masum184e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="masum184e" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/masum1834" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="masum184e" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/masum1834e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="masum184e" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/masum1834e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="masum1834e" height="30" width="40" /></a>
 </p>
 
 
