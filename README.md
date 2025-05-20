@@ -22,13 +22,16 @@
 
 ### 🛠 Tech Stack
 
-- ⚛️ React | Next.js | Redux | Firebase  
-- 🔧 Node.js | Express.js | GraphQL | Laravel  
-- 📱 XML | Android Studio  
-- 🛢 MySQL | MongoDB  
-- 💻 JavaScript | Python | Java | C++ | C | PHP  
-- 🤖 NumPy | Pandas | Scikit-learn | OpenCV | LangChain  
-- 🔌 ESP32 | Arduino
+| 💡 Front-End     | 🔧 Back-End          | 🧠 AI & ML                |
+|------------------|----------------------|---------------------------|
+| React, Next.js   | Node.js, Express.js  | NumPy, Pandas             |
+| Redux, Firebase  | GraphQL, Laravel     | Scikit-learn, OpenCV      |
+| Tailwind CSS  | PHP                  | LangChain                 |
+
+| 📱 Mobile         | 🗃️ Databases        | 🛠 Languages             | 🔌 IoT |
+|------------------|----------------------|---------------------------|------------------|
+| XML     | MySQL       | JavaScript, Python        | ESP32    |
+| Android Studio            |    MongoDB                  | Java, C++, C, PHP         | Arduino    |
 
 ### 🤝 Connect With Me
 <p>
